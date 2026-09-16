@@ -1,7 +1,7 @@
 # Suryansh Singh
 
 **Experienced in data pipelines and data-intensive software development.**
-I built GovernmentNinja, OutMatch, PollBuzz and BulkFlow — and continue to build more.
+I built GovernmentNinja, OutMatch, PollBuzz and BulkFlow and continue to build more.
 
 Data Engineer working across Azure (ADF, ADLS Gen2, Databricks, Fabric), PySpark, Python and SQL.
 Noida, India · Open to full-time Data Engineering roles · heresuryanshsingh@gmail.com
@@ -67,10 +67,10 @@ Reviewed and evaluated student full-stack codebases and ran daily doubt-clearing
 
 ## Education
 
-**B.Tech, Computer Science & Engineering** — Galgotias University, 2022–2026 · CGPA 8.07/10
+**B.Tech, Computer Science & Engineering** — 2022–2026 · CGPA 8.07/10
 
 ---
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/suryanshishere) · [X](https://x.com/suryaalgorithm) · [governmentninja.com](https://governmentninja.com)
+[LinkedIn](https://www.linkedin.com/in/suryanshishere) · [X](https://x.com/suryaalgorithm) 
