@@ -2,9 +2,7 @@
 
 **Experienced in data pipelines and data-intensive software development.**
 I built GovernmentNinja, OutMatch, PollBuzz and BulkFlow and continue to build more.
-
-Data Engineer working across Azure (ADF, ADLS Gen2, Databricks, Fabric), PySpark, Python and SQL.
-Noida, India · Open to full-time Data Engineering roles · heresuryanshsingh@gmail.com
+heresuryanshsingh@gmail.com
 
 ---
 
